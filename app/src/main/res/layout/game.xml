@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/game">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.25">
+
+        <ImageView
+            android:id="@+id/part11"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part12"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part13"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part14"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part15"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part16"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part17"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part18"
+            style="@style/Part"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.25">
+
+        <ImageView
+            android:id="@+id/part21"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part22"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part23"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part24"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part25"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part26"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part27"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part28"
+            style="@style/Part"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.25">
+
+        <ImageView
+            android:id="@+id/part31"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part32"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part33"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part34"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part35"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part36"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part37"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part38"
+            style="@style/Part"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.25">
+
+        <ImageView
+            android:id="@+id/part41"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part42"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part43"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part44"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part45"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part46"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part47"
+            style="@style/Part"/>
+
+        <ImageView
+            android:id="@+id/part48"
+            style="@style/Part"/>
+    </LinearLayout>
+</LinearLayout>
